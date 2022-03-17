@@ -1,3 +1,10 @@
+## Parcellation (3/9/2022)
+
+* **[Brain parcellation selection: An overlooked decision point with meaningful effects on individual differences in resting-state functional connectivity](https://www.sciencedirect.com/science/article/pii/S1053811921007606) (Bryce et al. 2021)**
+* Supplemental papers:
+   + [Imaging-based parcellations of the human brain](https://www.nature.com/articles/s41583-018-0071-7) (Eickhoff et al. 2018)
+   + [Human brain mapping: A systematic comparison of parcellation methods for the human cerebral cortex](https://www.sciencedirect.com/science/article/pii/S1053811917303026) (Arslan et al. 2018)
+
 ## Dynamics (2/16/2022)
 
 * **[Questions and controversies in the study of time-varying functional connectivity in resting fMRI](https://direct.mit.edu/netn/article/4/1/30/95807/Questions-and-controversies-in-the-study-of-time) (Lurie et al. 2020)**
